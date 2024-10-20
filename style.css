@@ -1,0 +1,62 @@
+body{
+   background-color: rgb(15, 15, 34);
+   color: white;
+   padding: 5% 36%
+  
+}
+
+h2,.fill{
+   text-align: center;
+    
+}
+
+ #account1{
+   display:block;
+   margin-left: -40px;
+ }
+ #account2{
+   display:block;
+   margin-left: -40px;
+  
+ }
+ #two{
+   display:block;
+   margin-left: 20%;
+   margin-top: -24px ; 
+ }
+ select{
+   margin: 8px 0;
+
+ }
+#one{
+   margin-left: 20%;
+   margin-top: -24px;
+   display:block;
+} 
+.first{
+   width: 30%;
+   height: 25px;
+}
+input{
+   background-color: rgb(10, 10, 12);
+   color: white;
+   width: 100%;
+   margin: 8px 0;
+}
+
+ #check{
+   display: block;
+   margin-left: -160px;
+
+ }
+ .accept{
+   width: 70%;
+   margin-left: 30px;
+   margin-top: -25px;
+ }
+ #submit{
+   color:white;
+ }
+ .second{
+   display: block;
+ }
